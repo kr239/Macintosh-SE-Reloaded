@@ -28,4 +28,5 @@ Project inspired by Rob 'Peepo' Taylors work on the A500++ and the SixtyClone PC
 
 A full BOM is incoming. But for now, here, have a picture of the finished article...
 
-![Finished Logic Board](/macseboard-final.jpg)
+![Finished Logic Board](/macseboard-final-rev12a.JPG)
+![Finished Logic Board - Bottom](/macseboard-final-rev12a-rear.JPG)
