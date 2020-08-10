@@ -26,7 +26,9 @@ Project inspired by Rob 'Peepo' Taylors work on the A500++ and the SixtyClone PC
 * **74LS245** - Available new, but still worth reclaiming - replace with CY74FCT245ATPC or CD74FCT245E
 * **74F257** - Available new, but still worth reclaiming - replace with CD74ACT257E
 
-A full BOM is incoming. But for now, here, have a picture of the finished article...
+A full BOM is now available. Boards are currently in prototype stage and not available outside of beta testing, so for now, here, have a picture of the finished article...
+
+Boards will be available on Tindie in due course. 
 
 ![Finished Logic Board](/macseboard-final-rev12a.JPG)
 ![Finished Logic Board - Bottom](/macseboard-final-rev12a-rear.JPG)
