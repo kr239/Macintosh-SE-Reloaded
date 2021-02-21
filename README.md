@@ -8,11 +8,11 @@ Project inspired by Rob 'Peepo' Taylors work on the A500++ and the SixtyClone PC
 
 * **SIMM Sockets** - NEARLY IMPOSSIBLE TO GET. If you can get some from here: https://www.peconnectors.com/sockets-pga-cpu-and-memory/hws9229/ then do so! 
  
-* Re-using and cleaning up your old ones involves desoldering. These need a lot of heat as there are a lot of connections to the ground plane. Pre-heat the joints, maybe add a dab of proper Kester 63/37 eutectic LEADED solder (none of that RoHS crap), flood with flux. 
+  Re-using and cleaning up your old ones involves desoldering. These need a lot of heat as there are a lot of connections to the ground plane. Pre-heat the joints, maybe add a dab of proper Kester 63/37 eutectic LEADED solder (none of that RoHS crap), flood with flux. 
 * **PDS Socket** - Amphenol/AMP/AVX DIN-41612 3-row, 96-pin connector (Style-C) - Available new, but still worth reclaiming as sifting through the minute variations of parts is an arse...
 * **DB19 Connector** - Almost NLA, only really available as NoS or Reclaimed. These are a bastard to get out cause the lugs are soldered. I found that pre-heating the joint first, filled with flux, then pressing hard into the pad with the desoldering gun, waiting til you see the solder go molten, you can often schlorp out the majority of the solder and then tidy up with wick afterwards. 
  
-* NoS ones available from https://www.exxoshost.co.uk/atari/store2/ - search for **DB19F ASCI PCB RA POST**
+  NoS ones available from https://www.exxoshost.co.uk/atari/store2/ - search for **DB19F ASCI PCB RA POST**
 * **Main 14-pin Molex** - Molex P/N 39-28-1143 - Still available new - costs less than £2. Get a new one. 
 * **Inductors** - probably easy enough to get new ones, but ehhh, they don't really break, and they fit fine. Reuse the big ones - buy new small axial ones.  
 * **Passives** - **REPLACE ALL** - use high tolerance metal film resistors & nichicon or panasonic electrolytics. Maybe try and save the PLCC Socket if you can. remove it cleanly - sometimes the pins pull out but they can be put back in if you're careful. 
