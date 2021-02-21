@@ -30,5 +30,5 @@ A full BOM is now available. Boards are currently in prototype stage and not ava
 
 Boards will be available on Tindie in due course. 
 
-![Finished Logic Board](/macseboard-final-rev41e.JPG)
-![Finished Logic Board - Bottom](/macseboard-final-rev14e-rear.JPG)
+![Finished Logic Board](/macseboard-final-rev41e.jpg)
+![Finished Logic Board - Bottom](/macseboard-final-rev14e-rear.jpg)
