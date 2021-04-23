@@ -1,0 +1,3 @@
+This file is for programming an ATF16V8 or GAL16V8.
+
+The original GLU chip is a HAL16L8 - most of it's functions can be replicated with 74LS125's and a 74LS04 - the Classic, which uses only a single floppy drive, also went back to 74LS logic when they went to SMT.
