@@ -9,6 +9,7 @@ Please note - this project is licensed under CC-BY-NC-SA - it is NOT for commerc
 Only two vendors are licensed for commercial production. Maceffects (US) and Recapamac (Australia). If you wish to purchase a single, ready made board, i recommend purchasing from them direct. 
 
 https://maceffects.com/products/macintosh-se-reloaded-logic-board
+
 https://recapamac.com.au/shop/
 
 # List of parts to save from the Macintosh SE Board
