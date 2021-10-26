@@ -8,7 +8,7 @@ Please note - this project is licensed under CC-BY-NC-SA - it is NOT for commerc
 
 # List of parts to save from the Macintosh SE Board
 
-* **SIMM Sockets** - NEARLY IMPOSSIBLE TO GET. If you can get some from here: https://www.peconnectors.com/sockets-pga-cpu-and-memory/hws9229/ then do so! 
+* **SIMM Sockets** - If you can get some from here: https://www.peconnectors.com/sockets-pga-cpu-and-memory/hws9229/ then do so! 
  
   Re-using and cleaning up your old ones involves desoldering. These need a lot of heat as there are a lot of connections to the ground plane. Pre-heat the joints, maybe add a dab of proper Kester 63/37 eutectic LEADED solder (none of that RoHS crap), flood with flux. 
 * **PDS Socket** - Amphenol/AMP/AVX DIN-41612 3-row, 96-pin connector (Style-C) - Available new, but still worth reclaiming as sifting through the minute variations of parts is an arse...
@@ -27,7 +27,7 @@ Please note - this project is licensed under CC-BY-NC-SA - it is NOT for commerc
 * **GLU Chip** - Apple branded HAL16L8 - this has been reverse engineered for both GAL16V8 and discrete logic!
 * **BBU Chip** - Custom Chip
 * **NCR5830/AM58C30 SCSI Chip** - NLA, only available as NoS or Reclaimed from UTSource
-* **WIM/SWIM Floppy Chip** - Custom Chip - available NoS from UTSource
+* **IWM/SWIM Floppy Chip** - Custom Chip - available NoS from UTSource
 * **Hi & Lo ROM Chips** - Toshiba TC531000CP MASK ROM's - Reclaim & reuse, but these are the same pinout as 27C512, but adds A16 in place of VPP pin - you can use 27C010's on an adapter - doug brown made a similar setup with a built in ROM disk for the Mac Plus. 
 * **74LS245** - Available new, but still worth reclaiming - replace with CY74FCT245ATPC or CD74FCT245E
 * **74F257** - Available new, but still worth reclaiming - replace with CD74ACT257E
