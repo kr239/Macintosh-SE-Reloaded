@@ -1,12 +1,14 @@
 # Macintosh SE Reloaded
 
-So many classic macs, starting with the SE, have died because of Apple's short sighted decision to add a battery to the board. This inevitably leaks and causes a horrific amount of damage. Luckily - most of the custom chips survive even this, so i decided to make a near 1:1 reproduction of the board, using Sprint Layout v6.0
+So many classic macs, starting with the SE, have died because of Apple's short sighted decision to add a battery to the board. This inevitably leaks and causes a horrific amount of damage. Luckily - most of the custom chips survive even this, so I decided to make a near 1:1 reproduction of the board, using Sprint Layout v6.0
 
 Project inspired by Rob 'Peepo' Taylors work on the A500++ and the SixtyClone PCB's, which in turn were inspired by John 'Chucky' Hertell. 
 
 Please note - this project is licensed under CC-BY-NC-SA - it is NOT for commercial use.
 
-Only two vendors are licensed for commercial production. Maceffects (US) and Recapamac (Australia). If you wish to purchase a single, ready made board, i recommend purchasing from them direct. 
+Only two vendors are licensed for commercial production. Maceffects (US) and Recapamac (Australia). 
+
+If you wish to purchase a single, ready made board, I recommend purchasing from them direct. 
 
 https://maceffects.com/products/macintosh-se-reloaded-logic-board
 
@@ -38,9 +40,7 @@ https://recapamac.com.au/shop/
 * **74LS245** - Available new, but still worth reclaiming - replace with CY74FCT245ATPC or CD74FCT245E
 * **74F257** - Available new, but still worth reclaiming - replace with CD74ACT257E
 
-A full BOM is now available. Boards are currently in prototype stage and not available outside of beta testing, so for now, here, have a picture of the finished article...
-
-Boards will be available on Tindie in due course. 
+A full BOM is now available. 
 
 ![Finished Logic Board](/macseboard-final-rev14e.jpg)
 ![Finished Logic Board - Bottom](/macseboard-final-rev14e-rear.jpg)
