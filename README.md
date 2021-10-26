@@ -6,6 +6,11 @@ Project inspired by Rob 'Peepo' Taylors work on the A500++ and the SixtyClone PC
 
 Please note - this project is licensed under CC-BY-NC-SA - it is NOT for commercial use.
 
+Only two vendors are licensed for commercial production. Maceffects (US) and Recapamac (Australia). If you wish to purchase a single, ready made board, i recommend purchasing from them direct. 
+
+https://maceffects.com/products/macintosh-se-reloaded-logic-board
+https://recapamac.com.au/shop/
+
 # List of parts to save from the Macintosh SE Board
 
 * **SIMM Sockets** - If you can get some from here: https://www.peconnectors.com/sockets-pga-cpu-and-memory/hws9229/ then do so! 
