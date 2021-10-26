@@ -42,5 +42,5 @@ https://recapamac.com.au/shop/
 
 A full BOM is now available. 
 
-![Finished Logic Board](/macseboard-final-rev14e.jpg)
-![Finished Logic Board - Bottom](/macseboard-final-rev14e-rear.jpg)
+![Finished Logic Board](/macseboard-final-rev15-release.jpg)
+![Finished Logic Board - Bottom](/macseboard-final-rev15-release-rear.jpg)
