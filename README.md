@@ -1,5 +1,8 @@
 # Macintosh SE Reloaded
 
+![Finished Logic Board](/macseboard-final-rev15-release.jpg)
+![Finished Logic Board - Bottom](/macseboard-final-rev15-release-rear.jpg)
+
 So many classic macs, starting with the SE, have died because of Apple's short sighted decision to add a battery to the board. This inevitably leaks and causes a horrific amount of damage. Luckily - most of the custom chips survive even this, so I decided to make a near 1:1 reproduction of the board, using Sprint Layout v6.0
 
 Project inspired by Rob 'Peepo' Taylors work on the A500++ and the SixtyClone PCB's, which in turn were inspired by John 'Chucky' Hertell. 
@@ -41,6 +44,3 @@ https://recapamac.com.au/shop/
 * **74F257** - Available new, but still worth reclaiming - replace with CD74ACT257E
 
 A full BOM is now available. 
-
-![Finished Logic Board](/macseboard-final-rev15-release.jpg)
-![Finished Logic Board - Bottom](/macseboard-final-rev15-release-rear.jpg)
