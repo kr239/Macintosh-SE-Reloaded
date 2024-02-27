@@ -3,6 +3,8 @@
 ![Finished Logic Board](/macseboard-final-rev15-release.jpg)
 ![Finished Logic Board - Bottom](/macseboard-final-rev15-release-rear.jpg)
 
+**Latest version, v1.6 adds an A18 address pin next to UE1, a 74F257 to allow for potential ROM upgrades as the standard ROM sockets only allow A1 to A17 address lines.**
+
 So many classic macs, starting with the SE, have died because of Apple's short sighted decision to add a battery to the board. This inevitably leaks and causes a horrific amount of damage. Luckily - most of the custom chips survive even this, so I decided to make a near 1:1 reproduction of the board, using Sprint Layout v6.0
 
 Project inspired by Rob 'Peepo' Taylors work on the A500++ and the SixtyClone PCB's, which in turn were inspired by John 'Chucky' Hertell. 
@@ -33,7 +35,7 @@ https://recapamac.com.au/shop/
 * **AM26LS32's** - Available new, but still worth reclaiming
 * **MC3488A** - NLA - replace with Texas Instruments SN75150
 * **Rockwell 338-6523** - This is identical to the 65C22N VIA, still available new
-* **RTC Chip** - Custom Chip - maybe possible to clone using pin-compatible ATTiny85
+* **RTC Chip** - Custom Chip - this has been reverse engineered, see project here: https://github.com/pgreenland/attinyrtcmodule
 * **ADB Chip** - Apple branded PIC16CR54 - maybe possible to re-produce/clone
 * **GLU Chip** - Apple branded HAL16L8 - this has been reverse engineered for both GAL16V8 and discrete logic!
 * **BBU Chip** - Custom Chip
