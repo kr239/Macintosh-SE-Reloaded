@@ -39,7 +39,7 @@ https://recapamac.com.au/shop/
 * **ADB Chip** - Apple branded PIC16CR54 - this has been reverse engineered for the PIC16F88 by Tashtari: https://github.com/lampmerchant/macseadb88
 * **GLU Chip** - Apple branded HAL16L8 - this has been reverse engineered for both GAL16V8 and discrete logic!
 * **BBU Chip** - Custom Chip
-* **SCC Chip** - Standard 85C30 Serial Communications controller - NO LONGER AVAILABLE NEW AS OF 2024-06-01, officially discontinued by ZiLOG
+* **SCC Chip** - Standard 85C30 Serial Communications controller - **NO LONGER AVAILABLE NEW AS OF 2024-06-01, officially discontinued by ZiLOG**
 * **NCR5830/AM58C30 SCSI Chip** - NLA, only available as NoS or Reclaimed from UTSource
 * **IWM/SWIM Floppy Chip** - Custom Chip - available NoS from UTSource
 * **Hi & Lo ROM Chips** - Toshiba TC531000CP MASK ROM's - Reclaim & reuse, but these are the same pinout as 27C512, but adds A16 in place of VPP pin - you can use 27C010's on an adapter - doug brown made a similar setup with a built in ROM disk for the Mac Plus. 
