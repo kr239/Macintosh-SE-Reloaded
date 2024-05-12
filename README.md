@@ -3,7 +3,7 @@
 ![Finished Logic Board](/macseboard-final-rev15-release.jpg)
 ![Finished Logic Board - Bottom](/macseboard-final-rev15-release-rear.jpg)
 
-**Latest version, v1.6 adds an A18 address pin next to UE1, a 74F257 to allow for potential ROM upgrades as the standard ROM sockets only allow A1 to A17 address lines.**
+**Latest version, v1.6 adds an A18 address pin next to **U2E**, a 74F257 to allow for potential ROM upgrades as the standard ROM sockets only allow A1 to A17 address lines.**
 
 So many classic macs, starting with the SE, have died because of Apple's short sighted decision to add a battery to the board. This inevitably leaks and causes a horrific amount of damage. Luckily - most of the custom chips survive even this, so I decided to make a near 1:1 reproduction of the board, using Sprint Layout v6.0
 
