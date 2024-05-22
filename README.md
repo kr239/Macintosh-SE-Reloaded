@@ -1,7 +1,7 @@
 # Macintosh SE Reloaded
 
-![Finished Logic Board](/macseboard-final-rev15-release.jpg)
-![Finished Logic Board - Bottom](/macseboard-final-rev15-release-rear.jpg)
+![Finished Logic Board](/macseboard-final-rev16b-release.jpg)
+![Finished Logic Board - Bottom](/macseboard-final-rev16b-release-rear.jpg)
 
 **Latest version, v1.6 adds an A17 address pin next to **U2E**, a 74F257 to allow for potential ROM upgrades as the standard ROM sockets only allow A0 to A16 address lines.**
 
